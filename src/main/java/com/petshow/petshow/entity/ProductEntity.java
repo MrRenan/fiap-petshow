@@ -9,7 +9,7 @@ import java.math.BigDecimal;
 import java.util.UUID;
 
 @Entity
-@Table(name = "tb_products")
+@Table(name = "tb_product")
 @Builder
 @AllArgsConstructor
 @NoArgsConstructor

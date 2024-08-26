@@ -21,6 +21,7 @@ import org.springframework.security.web.servlet.util.matcher.MvcRequestMatcher;
 
 @Configuration
 @EnableWebSecurity
+
 public class SecurityConfig {
 
     @Autowired
